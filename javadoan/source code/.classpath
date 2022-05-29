@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="F:/javadoan/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/javadoan/source code/libs/jasperreports-fonts-6.19.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
