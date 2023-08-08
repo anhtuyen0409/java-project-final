@@ -11,7 +11,7 @@ Công nghệ sử dụng:
 
 •	Nhân viên cần đăng nhập bằng tài khoản đã được cấp trước đó
 
-![](media/login.jpg)
+![Giao diện đăng nhập](https://github.com/anhtuyen0409/java-project-final/blob/main/media/login.JPG)
 
 ## **Quản lý kho**
 
@@ -19,7 +19,7 @@ Công nghệ sử dụng:
 
 •	Chức năng: Thêm, sửa, xoá, tìm kiếm,...
 
-![](media/kho-ui.jpg)
+![Giao diện quản lý kho](https://github.com/anhtuyen0409/java-project-final/blob/main/media/kho.JPG)
 
 ## **Quản lý bán hàng**
 
@@ -27,7 +27,7 @@ Công nghệ sử dụng:
 
 •	Chức năng: Thêm, sửa, xoá, tìm kiếm,...
 
-![](media/banhang-ui.jpg)
+![Giao diện quản ký bán hàng](https://github.com/anhtuyen0409/java-project-final/blob/main/media/banhang.JPG)
 
 
 ## **Trang Admin**
@@ -36,6 +36,6 @@ Công nghệ sử dụng:
 
 •	Chức năng: Thêm, sửa, xoá, tìm kiếm,...
 
-![](media/admin-ui.png)
+![Giao diện admin](https://github.com/anhtuyen0409/java-project-final/blob/main/media/admin.JPG)
 
 
