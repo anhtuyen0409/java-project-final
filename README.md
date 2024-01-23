@@ -1,4 +1,4 @@
-# Đồ án Java - Phần mềm quản lý cửa hàng điện thoại
+# Phần mềm quản lý cửa hàng điện thoại
 
 Công nghệ sử dụng:
 
