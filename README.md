@@ -38,4 +38,6 @@ Công nghệ sử dụng:
 
 ![Giao diện admin](https://github.com/anhtuyen0409/java-project-final/blob/main/media/admin.JPG)
 
+## **Link Demo**
+https://www.youtube.com/watch?v=uzka7g1-h0E
 
