@@ -4,7 +4,7 @@ Công nghệ sử dụng:
 
 -   Java Swing
 -   SQL Server
--   JdbcTemplate
+-   JDBC
 
 ## **Đăng nhập**
 
