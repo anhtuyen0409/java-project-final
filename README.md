@@ -1,41 +1,42 @@
-# Phần mềm quản lý cửa hàng điện thoại
+# Phone Store Management System
 
-Công nghệ sử dụng:
+Technologies Used:
 
 -   Java Swing
 -   SQL Server
 -   JDBC
+-   Using stored procedures for database operations
 
-## **Đăng nhập**
+## **Login**
 
-•	Có 3 lại tài khoản: quản lý kho, quản lý bán hàng và tài khoản admin
+•	There are three types of accounts: warehouse manager, sales manager, and admin account
 
-•	Nhân viên cần đăng nhập bằng tài khoản đã được cấp trước đó
+•	Employees must log in using the accounts provided to them
 
 ![Giao diện đăng nhập](https://github.com/anhtuyen0409/java-project-final/blob/main/media/login.JPG)
 
-## **Quản lý kho**
+## **Warehouse Management**
 
-•	Nhân viên quản lý kho có nhiệm vụ quản lý thông tin sản phẩm, phiếu nhập và nguồn cung ứng
+•	Warehouse managers are responsible for managing product information, import slips, and suppliers
 
-•	Chức năng: Thêm, sửa, xoá, tìm kiếm,...
+•	Main features: Add, edit, delete, search
 
 ![Giao diện quản lý kho](https://github.com/anhtuyen0409/java-project-final/blob/main/media/kho.JPG)
 
-## **Quản lý bán hàng**
+## **Sales Management**
 
-•	Nhân viên bán hàng có nhiệm vụ quản lý thông tin đơn đặt hàng và khách hàng
+•	Sales staff are responsible for managing order and customer information
 
-•	Chức năng: Thêm, sửa, xoá, tìm kiếm,...
+•	Main features: Add, edit, delete, search
 
 ![Giao diện quản ký bán hàng](https://github.com/anhtuyen0409/java-project-final/blob/main/media/banhang.JPG)
 
 
-## **Trang Admin**
+## **Admin Panel**
 
-•	Admin có nhiệm vụ quản lý tài khoản, thông tin nhân viên, khuyến mãi, thống kê doanh thu
+•	Admins are responsible for managing accounts, employee information, promotions, and revenue statistics
 
-•	Chức năng: Thêm, sửa, xoá, tìm kiếm,...
+•	Main features: Add, edit, delete, search, report
 
 ![Giao diện admin](https://github.com/anhtuyen0409/java-project-final/blob/main/media/admin.JPG)
 
